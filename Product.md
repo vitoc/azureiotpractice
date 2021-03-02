@@ -5,10 +5,6 @@
 * Product Development
 * Product Group
 
-## Certifications
-
-* [AZ-220](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty)
-
 ## Learning Paths
 
 * [Introduction to Azure IoT (5 hr 4 min)](https://docs.microsoft.com/en-us/learn/paths/introduction-to-azure-iot/) 
